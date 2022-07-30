@@ -1,0 +1,12 @@
+{
+	"languages" : [
+	{
+		"country" : "en",
+		"text" : "Play"
+	},
+	{
+		"country" : "ua",
+		"text" : "Грати"
+	}
+	]
+}
